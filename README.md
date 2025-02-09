@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @iakankshasharma28 urf Akanksha Sharma 
-- 👀 I’m interested in various intrests of Computer Science including web development, Data Science and Python
-- 🌱 I’m currently learning Python as an advanced learner and Data Science as a beginner....
-- 💞️ I’m looking to collaborate on projects related to web development, content writing, python and many more...
-- 📫 How to reach me akankshasharma2808@gmail.com , https://www.linkedin.com/in/akanksha-sharma-145572212/
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I can sleep all day and night....
+👋 Hi, I’m @iakankshasharma28 (a.k.a Akanksha Sharma)
+💡 Aspiring AI/ML/DL Researcher | Tech Enthusiast
+
+🚀 Passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
+🌱 Currently exploring AI research with a keen interest in solving real-world challenges.
+💻 Always open to collaborating on AI/ML projects, research initiatives, content writing, and more!
+📫 Let’s connect! Reach me at akankshasharma2808@gmail.com or on LinkedIn.
+😄 Pronouns: she/her
+⚡ Fun fact: I can train models for hours but also sleep through an entire day. 😆
 
 <!---
 iakankshasharma28/iakankshasharma28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

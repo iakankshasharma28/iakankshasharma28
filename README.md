@@ -16,12 +16,12 @@
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** Python, C, C++
+- **Languages:** Python
 - **AI/ML:** Machine Learning, Deep Learning, Natural Language Processing
 - **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL
 - **Web Development:** HTML, CSS, JavaScript
-- **Tools:** Git, VS Code, Jupyter Notebook
+- **Tools:** Git, VS Code, Jupyter Notebook, Google Colab
 
 ---
 
@@ -33,11 +33,7 @@
 ---
 
 ### 📌 Featured Projects
-- **[AI Research Project](https://github.com/iakankshasharma28/AI-Research-Project)**: A project focused on applying AI to real-world problems.
-- **[Machine Learning Models](https://github.com/iakankshasharma28/Machine-Learning-Models)**: A collection of various machine learning models implemented from scratch.
-- **[Deep Learning Experiments](https://github.com/iakankshasharma28/Deep-Learning-Experiments)**: Experiments and implementations of different deep learning architectures.
-
-Explore more of my work in the [repositories](https://github.com/iakankshasharma28?tab=repositories) section.
+- **Explore my work in the [repositories](https://github.com/iakankshasharma28?tab=repositories) section.
 
 ---
 
